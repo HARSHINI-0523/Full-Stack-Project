@@ -3,8 +3,8 @@
   line-height: 1.5;
   font-weight: 400;
   color-scheme: light dark;
-  color: rgba(0, 0, 0, 0.87); /* Adjusted for readability */
-  background-color: #ffffff; /* White background for the entire page */
+  color: rgba(0, 0, 0, 0.87); 
+  background-color: #ffffff; 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -27,7 +27,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-color: #ffffff; /* Ensure body background is white */
+  background-color: #ffffff;
 }
 
 h1 {
