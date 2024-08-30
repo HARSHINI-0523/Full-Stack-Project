@@ -3,12 +3,10 @@
   display: flex;
   flex-direction: column;
   align-items: stretch;
-  /* Other styles as needed */
 }
 
 .content-container {
   flex-grow: 1;
-  width: 100%; /* Ensure it takes up full width */
-  padding: 20px; /* Add some padding for spacing */
-  /* Other styles as needed */
+  width: 100%; 
+  padding: 20px; 
 }
