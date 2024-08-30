@@ -1,0 +1,40 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    z-index: 1000;
+    margin-top: -25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 20px;
+    font-size: 1.5em;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    margin-right: 20px;
+}
+
+
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.nav-link:hover {
+    color: lightgray;
+}
+
+.icon {
+    margin-right: 5px;
+    vertical-align: middle;
+}
