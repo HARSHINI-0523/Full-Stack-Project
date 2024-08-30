@@ -1,6 +1,6 @@
 // RootLayout.jsx
 import React from 'react';
-import "./RootLayout.css"; // Import your CSS file
+import "./RootLayout.css"; 
 import Header from "./components/header/Header";
 import Footer from "./components/footer/Footer";
 import { Outlet } from "react-router-dom";
